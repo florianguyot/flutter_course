@@ -1,0 +1,3 @@
+[submodule "flutter_course_1_question_answer"]
+	path = flutter_course_1_question_answer
+	url = https://github.com/florianguyot/flutter_course_1_question_answer.git
